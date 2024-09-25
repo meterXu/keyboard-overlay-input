@@ -1,0 +1,14 @@
+{
+  "name": "xx-keyboard-overlay-input",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "isaac",
+    "email": "xhgainxq@gmail.com"
+  },
+  "license": "ISC"
+}
