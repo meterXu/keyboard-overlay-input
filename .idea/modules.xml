@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/keyboardOverlayInput.iml" filepath="$PROJECT_DIR$/.idea/keyboardOverlayInput.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/keyboard-overlay-input.iml" filepath="$PROJECT_DIR$/.idea/keyboard-overlay-input.iml" />
     </modules>
   </component>
 </project>
