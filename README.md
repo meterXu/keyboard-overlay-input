@@ -10,3 +10,5 @@ import koinput from 'xx-keyboard-overlay-input'
 // 初始化
 koinput()
 ```
+# 参考链接
+https://juejin.cn/post/7169763455946194952
